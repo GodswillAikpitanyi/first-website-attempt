@@ -1,0 +1,189 @@
+body{
+    margin:10px;
+    padding:0;
+}
+
+#header-text-1111111{
+    font-size: 30px;
+    color:red;
+    border: 2px solid darkblue;
+}
+
+h4{
+    padding: 10px;
+}
+
+.list-style{
+    color:brown;
+    font-size: 20px;
+}
+
+li{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#banner-img{
+    width:100%;
+    height: 600px;
+}
+.banner{
+    position: relative;
+    text-align: center;
+}
+.banner-button{
+    border: 1px solid rgb(92, 202, 92);
+    border-radius:8px; 
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+    background-color:rgb(92, 202, 92);  
+    color: white;
+    font-weight: 500;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+.banner-image{
+    opacity: 0.1;
+}
+
+.banner-welcome-text{
+    padding-top:70px;
+    text-align:left;
+    font-family: 'Cardo', serif;
+}
+
+.banner-welcome-img{
+    width:100%;
+    height: 475px;
+}
+
+.banner-text{
+    width:70%;
+    position: absolute;
+    color: #3D2C8D;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+}
+.welcome-text{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.banner-welcome-img-div{
+    float: left;
+}
+
+.banner-welcome-image{
+    width:50%;
+    float: right;
+}
+
+.item-section{
+  text-align: center;
+  font-family: 'Cardo';
+  text-transform: uppercase;
+  color:#3D2C8D;
+  font-weight:800;
+  font-size: 20px;  
+  padding:44px 0;
+}
+
+#item3{
+    background-color: green;
+    color:white;
+    font-family: 'Cardo', serif;
+    font-weight: 100;
+    text-align: center;
+}
+.item-img{
+    margin:0 2%;
+}
+.items-table{
+    margin-left: 650px;
+    border-radius: 2px;
+}
+
+.logo{
+    width: 150px;
+}
+#nav-text{
+    padding:0;
+}
+
+.navigation-float{
+    float: right;
+}
+
+
+.nav-list{
+    list-style-type: none;
+    display: block;
+}
+.nav-list li {
+    float: right;
+    margin:15px 50px;
+    color:rgb(47, 47, 155);
+}
+
+.nav-list li:hover{
+    color: rgb(48, 25, 196);
+}
+
+.gallery-image{
+    height:350px;
+    width:350px;
+    cursor: pointer;
+    
+}
+
+.gallery-image:hover{ 
+    width:340px;
+    height:340px;
+    }
+
+.art-sect{
+    position: relative;
+}
+
+.artsect-img{
+    position: absolute;
+}
+
+.contact-form{
+    text-align: center;
+    border: 2px solid purple;
+    margin: 0 30%;
+    border-radius: 20px;
+}
+.contact-form{
+    padding:30px;   
+    
+}
+.contact-form-div{
+    text-align: center;
+}
+
+.contact-input{
+    text-align: left;
+}
+.footer-section{
+    margin-top: 3px;
+    text-align: center;
+    font-size: medium;
+}
+.contact-twitter{
+    padding: 10px;
+    color: #1e99e0;
+}
+.contact-instagram{
+    padding: 10px;
+    color: #ce5fb2;
+}
+.contact-mail{
+    padding: 10px;
+}
+.footer-section{
+    background-color: rgb(194, 214, 226);
+}
